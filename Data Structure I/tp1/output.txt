@@ -1,0 +1,135 @@
+BEM VINDO AO SISTEMA DE ADMINISTRAÇÃO DE REPÚBLICAS
+Neste sistema, você tem a possibilidade de coordenar a quantidade desejada de repúblicas, assim como também seus moradores, tarefas e alimentos.
+AVISO: Sistema com limite de 20 moradores, 30 repúblicas, 20 tarefas e 50 alimentos!
+
+Agora, segundo as informações abaixo, digite o número do que deseja fazer
+1 - Criar 
+2 - Editar
+3 - Deletar
+4 - Ler
+5 - Buscar
+6 - Ordenar
+-1 - Sair
+Digite uma opção: 
+O que deseja criar?
+1 - República
+2 - Morador
+3 - Tarefa
+4 - Alimento
+Digite uma opção: 
+Digite as informações da tarefa:
+Descrição: Prazo (dias): Quem vai fazer: 
+
+Agora, segundo as informações abaixo, digite o número do que deseja fazer
+1 - Criar 
+2 - Editar
+3 - Deletar
+4 - Ler
+5 - Buscar
+6 - Ordenar
+-1 - Sair
+Digite uma opção: 
+O que deseja criar?
+1 - República
+2 - Morador
+3 - Tarefa
+4 - Alimento
+Digite uma opção: 
+Digite as informações do morador:
+Nome: Idade: Curso: Apelido: Periodo: Status: Republica: 
+
+Agora, segundo as informações abaixo, digite o número do que deseja fazer
+1 - Criar 
+2 - Editar
+3 - Deletar
+4 - Ler
+5 - Buscar
+6 - Ordenar
+-1 - Sair
+Digite uma opção: 
+O que deseja criar?
+1 - República
+2 - Morador
+3 - Tarefa
+4 - Alimento
+Digite uma opção: 
+Digite as informações da república:
+Nome: Endereço (Use _ no lugar de espaço): Telefone: Quantidade de comodos: 
+
+Agora, segundo as informações abaixo, digite o número do que deseja fazer
+1 - Criar 
+2 - Editar
+3 - Deletar
+4 - Ler
+5 - Buscar
+6 - Ordenar
+-1 - Sair
+Digite uma opção: 
+O que deseja criar?
+1 - República
+2 - Morador
+3 - Tarefa
+4 - Alimento
+Digite uma opção: 
+Digite as informações do alimento:
+Descrição: Validade: Localização: Dono: 
+
+Agora, segundo as informações abaixo, digite o número do que deseja fazer
+1 - Criar 
+2 - Editar
+3 - Deletar
+4 - Ler
+5 - Buscar
+6 - Ordenar
+-1 - Sair
+Digite uma opção: 
+
+O que deseja ler?
+1 - República
+2 - Morador
+3 - Tarefa
+4 - Alimento
+Digite uma opção: 
+
+REPÚBLICA
+Nome: Taberna
+Endereço: Rua
+Telefone: 355
+Quantidade de comôdos: 10
+Moradores:
+
+MORADOR
+Nome: Ze
+Idade: 19
+Curso: Computacao
+Apelido: Jose
+Periodo: 2
+Status: Bixo
+República: Taberna
+Quantidade de tarefas: 1
+Quantidade de alimentos: 1
+Tarefas:
+
+TAREFA
+Descrição: Limpar_banheiro
+Prazo: 2
+Pessoa: Ze
+
+Alimentos:
+
+ALIMENTO
+Descrição: Batata
+Validade: 20/10/2020Dispensa
+Localização: Dispensa
+Dono: Ze
+
+
+Agora, segundo as informações abaixo, digite o número do que deseja fazer
+1 - Criar 
+2 - Editar
+3 - Deletar
+4 - Ler
+5 - Buscar
+6 - Ordenar
+-1 - Sair
+Digite uma opção: 

@@ -1,0 +1,141 @@
+Arquivo de entrada: code.txt (0.021 bytes)
+Arquivo de saida: huffman.bin (1.035 bytes)
+Tempo gasto: 0.015625s
+Taxa de compressao: 4928%
+Arquivo de entrada: huffman.bin (1.035 bytes)
+Arquivo de saida: huffman.txt (0.021 bytes)
+Tempo gasto: 0s
+Taxa de descompressao: 2%
+
+MENU DE ACESSO 
+1 - Insercao
+2 - Remocao
+3 - Buscar por letra
+4 - Buscar por nome
+5 - Atualizar dados
+0 - Sair
+Opcao: 
+Digite nome do funcionario: 
+Digite telefone: 
+Digite funcao: 
+Funcionario inserido
+
+MENU DE ACESSO 
+1 - Insercao
+2 - Remocao
+3 - Buscar por letra
+4 - Buscar por nome
+5 - Atualizar dados
+0 - Sair
+Opcao: 
+Digite nome do funcionario: 
+Digite telefone: 
+Digite funcao: 
+Funcionario inserido
+
+MENU DE ACESSO 
+1 - Insercao
+2 - Remocao
+3 - Buscar por letra
+4 - Buscar por nome
+5 - Atualizar dados
+0 - Sair
+Opcao: 
+Digite nome do funcionario: 
+Digite telefone: 
+Digite funcao: 
+Funcionario inserido
+
+MENU DE ACESSO 
+1 - Insercao
+2 - Remocao
+3 - Buscar por letra
+4 - Buscar por nome
+5 - Atualizar dados
+0 - Sair
+Opcao: 
+Digite nome do funcionario: 
+Digite telefone: 
+Digite funcao: 
+Funcionario inserido
+
+MENU DE ACESSO 
+1 - Insercao
+2 - Remocao
+3 - Buscar por letra
+4 - Buscar por nome
+5 - Atualizar dados
+0 - Sair
+Opcao: 
+Digite nome do funcionario: 
+Digite telefone: 
+Digite funcao: 
+Funcionario inserido
+
+MENU DE ACESSO 
+1 - Insercao
+2 - Remocao
+3 - Buscar por letra
+4 - Buscar por nome
+5 - Atualizar dados
+0 - Sair
+Opcao: 
+Digite nome do funcionario: 
+Funcionario excluido com sucesso
+
+MENU DE ACESSO 
+1 - Insercao
+2 - Remocao
+3 - Buscar por letra
+4 - Buscar por nome
+5 - Atualizar dados
+0 - Sair
+Opcao: 
+Digite uma letra: 
+MENU DE ACESSO 
+1 - Insercao
+2 - Remocao
+3 - Buscar por letra
+4 - Buscar por nome
+5 - Atualizar dados
+0 - Sair
+Opcao: 
+Digite uma letra: 
+Nome: Amanda
+Telefone: 444444444
+Funcao: Motorista
+
+MENU DE ACESSO 
+1 - Insercao
+2 - Remocao
+3 - Buscar por letra
+4 - Buscar por nome
+5 - Atualizar dados
+0 - Sair
+Opcao: 
+Digite nome do funcionario: 
+Digite telefone: 
+Digite funcao: 
+Atualizado com sucesso
+
+MENU DE ACESSO 
+1 - Insercao
+2 - Remocao
+3 - Buscar por letra
+4 - Buscar por nome
+5 - Atualizar dados
+0 - Sair
+Opcao: 
+Digite nome do funcionário: 
+Nome: Joaquim
+Telefone: 333333333
+Funcao: Cobrador
+
+MENU DE ACESSO 
+1 - Insercao
+2 - Remocao
+3 - Buscar por letra
+4 - Buscar por nome
+5 - Atualizar dados
+0 - Sair
+Opcao: 
