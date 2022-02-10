@@ -1,0 +1,90 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\contentsline {section}{\numberline {1}Hierarchical Index}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Class Hierarchy}{1}{subsection.1.1}%
+\contentsline {section}{\numberline {2}Class Index}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Class List}{1}{subsection.2.1}%
+\contentsline {section}{\numberline {3}File Index}{1}{section.3}%
+\contentsline {subsection}{\numberline {3.1}File List}{1}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Class Documentation}{2}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Exponential Class Reference}{2}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Constructor \& Destructor Documentation}{4}{subsubsection.4.1.1}%
+\contentsline {paragraph}{\numberline {4.1.1.1}Exponential()\hspace {0.1cm}{\footnotesize \ttfamily [1/2]}}{4}{paragraph.4.1.1.1}%
+\contentsline {paragraph}{\numberline {4.1.1.2}Exponential()\hspace {0.1cm}{\footnotesize \ttfamily [2/2]}}{4}{paragraph.4.1.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.2}Member Function Documentation}{4}{subsubsection.4.1.2}%
+\contentsline {paragraph}{\numberline {4.1.2.1}run()}{4}{paragraph.4.1.2.1}%
+\contentsline {subsection}{\numberline {4.2}Flow Class Reference}{5}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Detailed Description}{7}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Constructor \& Destructor Documentation}{7}{subsubsection.4.2.2}%
+\contentsline {paragraph}{\numberline {4.2.2.1}Flow()\hspace {0.1cm}{\footnotesize \ttfamily [1/2]}}{7}{paragraph.4.2.2.1}%
+\contentsline {paragraph}{\numberline {4.2.2.2}Flow()\hspace {0.1cm}{\footnotesize \ttfamily [2/2]}}{7}{paragraph.4.2.2.2}%
+\contentsline {paragraph}{\numberline {4.2.2.3}$\sim $Flow()}{7}{paragraph.4.2.2.3}%
+\contentsline {subsubsection}{\numberline {4.2.3}Member Function Documentation}{7}{subsubsection.4.2.3}%
+\contentsline {paragraph}{\numberline {4.2.3.1}getDestination()}{8}{paragraph.4.2.3.1}%
+\contentsline {paragraph}{\numberline {4.2.3.2}getSource()}{8}{paragraph.4.2.3.2}%
+\contentsline {paragraph}{\numberline {4.2.3.3}operator=()}{8}{paragraph.4.2.3.3}%
+\contentsline {paragraph}{\numberline {4.2.3.4}run()}{8}{paragraph.4.2.3.4}%
+\contentsline {paragraph}{\numberline {4.2.3.5}setDestination()}{8}{paragraph.4.2.3.5}%
+\contentsline {paragraph}{\numberline {4.2.3.6}setSources()}{9}{paragraph.4.2.3.6}%
+\contentsline {subsubsection}{\numberline {4.2.4}Member Data Documentation}{9}{subsubsection.4.2.4}%
+\contentsline {paragraph}{\numberline {4.2.4.1}destination}{9}{paragraph.4.2.4.1}%
+\contentsline {paragraph}{\numberline {4.2.4.2}source}{9}{paragraph.4.2.4.2}%
+\contentsline {subsection}{\numberline {4.3}Logistic Class Reference}{9}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Constructor \& Destructor Documentation}{12}{subsubsection.4.3.1}%
+\contentsline {paragraph}{\numberline {4.3.1.1}Logistic()\hspace {0.1cm}{\footnotesize \ttfamily [1/2]}}{12}{paragraph.4.3.1.1}%
+\contentsline {paragraph}{\numberline {4.3.1.2}Logistic()\hspace {0.1cm}{\footnotesize \ttfamily [2/2]}}{12}{paragraph.4.3.1.2}%
+\contentsline {subsubsection}{\numberline {4.3.2}Member Function Documentation}{12}{subsubsection.4.3.2}%
+\contentsline {paragraph}{\numberline {4.3.2.1}run()}{12}{paragraph.4.3.2.1}%
+\contentsline {subsection}{\numberline {4.4}Model Class Reference}{12}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}Detailed Description}{13}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}Constructor \& Destructor Documentation}{13}{subsubsection.4.4.2}%
+\contentsline {paragraph}{\numberline {4.4.2.1}Model()}{13}{paragraph.4.4.2.1}%
+\contentsline {paragraph}{\numberline {4.4.2.2}$\sim $Model()}{13}{paragraph.4.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.4.3}Member Function Documentation}{13}{subsubsection.4.4.3}%
+\contentsline {paragraph}{\numberline {4.4.3.1}add()\hspace {0.1cm}{\footnotesize \ttfamily [1/2]}}{14}{paragraph.4.4.3.1}%
+\contentsline {paragraph}{\numberline {4.4.3.2}add()\hspace {0.1cm}{\footnotesize \ttfamily [2/2]}}{14}{paragraph.4.4.3.2}%
+\contentsline {paragraph}{\numberline {4.4.3.3}operator=()}{14}{paragraph.4.4.3.3}%
+\contentsline {paragraph}{\numberline {4.4.3.4}run()}{14}{paragraph.4.4.3.4}%
+\contentsline {subsubsection}{\numberline {4.4.4}Member Data Documentation}{14}{subsubsection.4.4.4}%
+\contentsline {paragraph}{\numberline {4.4.4.1}flows}{15}{paragraph.4.4.4.1}%
+\contentsline {paragraph}{\numberline {4.4.4.2}systems}{15}{paragraph.4.4.4.2}%
+\contentsline {subsection}{\numberline {4.5}System Class Reference}{15}{subsection.4.5}%
+\contentsline {subsubsection}{\numberline {4.5.1}Detailed Description}{16}{subsubsection.4.5.1}%
+\contentsline {subsubsection}{\numberline {4.5.2}Constructor \& Destructor Documentation}{16}{subsubsection.4.5.2}%
+\contentsline {paragraph}{\numberline {4.5.2.1}System()\hspace {0.1cm}{\footnotesize \ttfamily [1/2]}}{16}{paragraph.4.5.2.1}%
+\contentsline {paragraph}{\numberline {4.5.2.2}System()\hspace {0.1cm}{\footnotesize \ttfamily [2/2]}}{16}{paragraph.4.5.2.2}%
+\contentsline {paragraph}{\numberline {4.5.2.3}$\sim $System()}{16}{paragraph.4.5.2.3}%
+\contentsline {subsubsection}{\numberline {4.5.3}Member Function Documentation}{16}{subsubsection.4.5.3}%
+\contentsline {paragraph}{\numberline {4.5.3.1}getName()}{16}{paragraph.4.5.3.1}%
+\contentsline {paragraph}{\numberline {4.5.3.2}getValue()}{16}{paragraph.4.5.3.2}%
+\contentsline {paragraph}{\numberline {4.5.3.3}operator=()}{16}{paragraph.4.5.3.3}%
+\contentsline {paragraph}{\numberline {4.5.3.4}setName()}{17}{paragraph.4.5.3.4}%
+\contentsline {paragraph}{\numberline {4.5.3.5}setValue()}{17}{paragraph.4.5.3.5}%
+\contentsline {subsubsection}{\numberline {4.5.4}Member Data Documentation}{17}{subsubsection.4.5.4}%
+\contentsline {paragraph}{\numberline {4.5.4.1}name}{17}{paragraph.4.5.4.1}%
+\contentsline {paragraph}{\numberline {4.5.4.2}value}{17}{paragraph.4.5.4.2}%
+\contentsline {section}{\numberline {5}File Documentation}{18}{section.5}%
+\contentsline {subsection}{\numberline {5.1}My\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Vensim/src/flow.cpp File Reference}{18}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}My\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Vensim/src/flow.h File Reference}{18}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}My\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Vensim/src/main.cpp File Reference}{19}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}Function Documentation}{20}{subsubsection.5.3.1}%
+\contentsline {paragraph}{\numberline {5.3.1.1}main()}{20}{paragraph.5.3.1.1}%
+\contentsline {subsection}{\numberline {5.4}My\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Vensim/test/functional/main.cpp File Reference}{21}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}Function Documentation}{21}{subsubsection.5.4.1}%
+\contentsline {paragraph}{\numberline {5.4.1.1}main()}{21}{paragraph.5.4.1.1}%
+\contentsline {subsection}{\numberline {5.5}My\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Vensim/test/unit/main.cpp File Reference}{22}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}My\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Vensim/src/model.cpp File Reference}{22}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}My\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Vensim/src/model.h File Reference}{22}{subsection.5.7}%
+\contentsline {subsection}{\numberline {5.8}My\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Vensim/src/system.cpp File Reference}{23}{subsection.5.8}%
+\contentsline {subsection}{\numberline {5.9}My\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Vensim/src/system.h File Reference}{24}{subsection.5.9}%
+\contentsline {subsection}{\numberline {5.10}My\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Vensim/test/functional/functional\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}tests.cpp File Reference}{25}{subsection.5.10}%
+\contentsline {subsubsection}{\numberline {5.10.1}Function Documentation}{26}{subsubsection.5.10.1}%
+\contentsline {paragraph}{\numberline {5.10.1.1}complexFuncionalTest()}{26}{paragraph.5.10.1.1}%
+\contentsline {paragraph}{\numberline {5.10.1.2}exponentialFuncionalTest()}{27}{paragraph.5.10.1.2}%
+\contentsline {paragraph}{\numberline {5.10.1.3}logisticalFuncionalTest()}{27}{paragraph.5.10.1.3}%
+\contentsline {subsection}{\numberline {5.11}My\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Vensim/test/functional/functional\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}tests.h File Reference}{27}{subsection.5.11}%
+\contentsline {subsubsection}{\numberline {5.11.1}Function Documentation}{28}{subsubsection.5.11.1}%
+\contentsline {paragraph}{\numberline {5.11.1.1}complexFuncionalTest()}{28}{paragraph.5.11.1.1}%
+\contentsline {paragraph}{\numberline {5.11.1.2}exponentialFuncionalTest()}{28}{paragraph.5.11.1.2}%
+\contentsline {paragraph}{\numberline {5.11.1.3}logisticalFuncionalTest()}{28}{paragraph.5.11.1.3}%
+\contentsline {subsection}{\numberline {5.12}My\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Vensim/test/unit/unit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}tests.cpp File Reference}{28}{subsection.5.12}%
+\contentsline {subsection}{\numberline {5.13}My\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Vensim/test/unit/unit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}tests.h File Reference}{28}{subsection.5.13}%

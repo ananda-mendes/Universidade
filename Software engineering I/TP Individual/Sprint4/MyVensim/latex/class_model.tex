@@ -1,0 +1,96 @@
+\hypertarget{class_model}{}\doxysubsection{Model Class Reference}
+\label{class_model}\index{Model@{Model}}
+
+
+File responsible for project templates.  
+
+
+
+
+{\ttfamily \#include $<$model.\+h$>$}
+
+
+
+Collaboration diagram for Model\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=144pt]{class_model__coll__graph}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_model_ae3b375de5f6df4faf74a95d64748e048}{Model}} ()
+\begin{DoxyCompactList}\small\item\em $<$ Systems pointer vector \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_model_ad6ebd2062a0b823db841a0b88baac4c0}\label{class_model_ad6ebd2062a0b823db841a0b88baac4c0}} 
+virtual \mbox{\hyperlink{class_model_ad6ebd2062a0b823db841a0b88baac4c0}{$\sim$\+Model}} ()
+\begin{DoxyCompactList}\small\item\em Destructor to destroy the model. \end{DoxyCompactList}\item 
+double \mbox{\hyperlink{class_model_aacd43460b8b4ce989f8125afc565cc78}{run}} (int, int)
+\begin{DoxyCompactList}\small\item\em Function to run the model. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_model_ae4d749689ba490e2a74d64bb10721a94}\label{class_model_ae4d749689ba490e2a74d64bb10721a94}} 
+void \mbox{\hyperlink{class_model_ae4d749689ba490e2a74d64bb10721a94}{add}} (\mbox{\hyperlink{class_system}{System}} $\ast$)
+\begin{DoxyCompactList}\small\item\em Function to add a new system. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_model_a94757709637014384aa155189ada81e4}\label{class_model_a94757709637014384aa155189ada81e4}} 
+void \mbox{\hyperlink{class_model_a94757709637014384aa155189ada81e4}{add}} (\mbox{\hyperlink{class_flow}{Flow}} $\ast$)
+\begin{DoxyCompactList}\small\item\em Function to add new flow. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Protected Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_model_aa76c9411f1cf6da6f4c696b2feadcb1a}\label{class_model_aa76c9411f1cf6da6f4c696b2feadcb1a}} 
+vector$<$ \mbox{\hyperlink{class_flow}{Flow}} $\ast$ $>$ {\bfseries flows}
+\item 
+\mbox{\Hypertarget{class_model_ac7dea8829149e597d2671dbc0a538bf7}\label{class_model_ac7dea8829149e597d2671dbc0a538bf7}} 
+vector$<$ \mbox{\hyperlink{class_system}{System}} $\ast$ $>$ \mbox{\hyperlink{class_model_ac7dea8829149e597d2671dbc0a538bf7}{systems}}
+\begin{DoxyCompactList}\small\item\em $<$ \mbox{\hyperlink{class_flow}{Flow}} pointer vector \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsubsection{Detailed Description}
+File responsible for project templates. 
+
+\begin{DoxyAuthor}{Author}
+Ananda Mendes 2021. 
+\end{DoxyAuthor}
+
+
+\doxysubsubsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{class_model_ae3b375de5f6df4faf74a95d64748e048}\label{class_model_ae3b375de5f6df4faf74a95d64748e048}} 
+\index{Model@{Model}!Model@{Model}}
+\index{Model@{Model}!Model@{Model}}
+\doxyparagraph{\texorpdfstring{Model()}{Model()}}
+{\footnotesize\ttfamily Model\+::\+Model (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+$<$ Systems pointer vector 
+
+Builder to create a new model. 
+
+\doxysubsubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_model_aacd43460b8b4ce989f8125afc565cc78}\label{class_model_aacd43460b8b4ce989f8125afc565cc78}} 
+\index{Model@{Model}!run@{run}}
+\index{run@{run}!Model@{Model}}
+\doxyparagraph{\texorpdfstring{run()}{run()}}
+{\footnotesize\ttfamily double Model\+::run (\begin{DoxyParamCaption}\item[{int}]{start,  }\item[{int}]{finish }\end{DoxyParamCaption})}
+
+
+
+Function to run the model. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em start} & Initial value. \\
+\hline
+{\em finish} & Final value. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Returns final value. 
+\end{DoxyReturn}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+src/model.\+h\item 
+src/model.\+cpp\end{DoxyCompactItemize}

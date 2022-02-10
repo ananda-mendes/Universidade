@@ -1,0 +1,155 @@
+\hypertarget{class_system}{}\doxysubsection{System Class Reference}
+\label{class_system}\index{System@{System}}
+
+
+File responsible for project systems.  
+
+
+
+
+{\ttfamily \#include $<$system.\+h$>$}
+
+
+
+Collaboration diagram for System\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=153pt]{class_system__coll__graph}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_system_ae317936c9bcf1374d61745572e0f2f8a}{System}} ()
+\begin{DoxyCompactList}\small\item\em $<$Double value \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_system_a2b761ae23501967afb7143e0a8ad2e43}\label{class_system_a2b761ae23501967afb7143e0a8ad2e43}} 
+{\bfseries System} (string, double)
+\item 
+\mbox{\Hypertarget{class_system_a3be70bb338e3f062f821173fd15680d0}\label{class_system_a3be70bb338e3f062f821173fd15680d0}} 
+virtual \mbox{\hyperlink{class_system_a3be70bb338e3f062f821173fd15680d0}{$\sim$\+System}} ()
+\begin{DoxyCompactList}\small\item\em Destructor to destroy the system. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_system_af9266231e352f4b45bdf4412afb76882}{set\+Name}} (string)
+\begin{DoxyCompactList}\small\item\em Add a name for the system. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_system_a0fab907790a0a6ac4b4a9b934f3de278}{set\+Value}} (double)
+\begin{DoxyCompactList}\small\item\em Add a value to the system. \end{DoxyCompactList}\item 
+double \mbox{\hyperlink{class_system_ac6f5cf5f07a414398ac2ef5843531d1b}{get\+Value}} ()
+\begin{DoxyCompactList}\small\item\em Function to return system value. \end{DoxyCompactList}\item 
+string \mbox{\hyperlink{class_system_a935bafb390fe6423ed5b3a087069d718}{get\+Name}} ()
+\begin{DoxyCompactList}\small\item\em Function to return system name. \end{DoxyCompactList}\item 
+\mbox{\hyperlink{class_system}{System}} $\ast$ \mbox{\hyperlink{class_system_ad3eca5e5e7d88ba958ae6d74c0e7464a}{operator=}} (\mbox{\hyperlink{class_system}{System}} $\ast$)
+\begin{DoxyCompactList}\small\item\em Function to overload operator =. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Protected Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_system_a29fe2868c0d56fdebc67f1bef5d5cca3}\label{class_system_a29fe2868c0d56fdebc67f1bef5d5cca3}} 
+string {\bfseries name}
+\item 
+\mbox{\Hypertarget{class_system_a879687b1125ef20757c2a61345fedd00}\label{class_system_a879687b1125ef20757c2a61345fedd00}} 
+double \mbox{\hyperlink{class_system_a879687b1125ef20757c2a61345fedd00}{value}}
+\begin{DoxyCompactList}\small\item\em $<$String name \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsubsection{Detailed Description}
+File responsible for project systems. 
+
+\begin{DoxyAuthor}{Author}
+Ananda Mendes 2021. 
+\end{DoxyAuthor}
+
+
+\doxysubsubsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{class_system_ae317936c9bcf1374d61745572e0f2f8a}\label{class_system_ae317936c9bcf1374d61745572e0f2f8a}} 
+\index{System@{System}!System@{System}}
+\index{System@{System}!System@{System}}
+\doxyparagraph{\texorpdfstring{System()}{System()}}
+{\footnotesize\ttfamily System\+::\+System (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+$<$Double value 
+
+Builder to create a new system. 
+
+\doxysubsubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_system_a935bafb390fe6423ed5b3a087069d718}\label{class_system_a935bafb390fe6423ed5b3a087069d718}} 
+\index{System@{System}!getName@{getName}}
+\index{getName@{getName}!System@{System}}
+\doxyparagraph{\texorpdfstring{getName()}{getName()}}
+{\footnotesize\ttfamily string System\+::get\+Name (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Function to return system name. 
+
+\begin{DoxyReturn}{Returns}
+Returns a string. 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_system_ac6f5cf5f07a414398ac2ef5843531d1b}\label{class_system_ac6f5cf5f07a414398ac2ef5843531d1b}} 
+\index{System@{System}!getValue@{getValue}}
+\index{getValue@{getValue}!System@{System}}
+\doxyparagraph{\texorpdfstring{getValue()}{getValue()}}
+{\footnotesize\ttfamily double System\+::get\+Value (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Function to return system value. 
+
+\begin{DoxyReturn}{Returns}
+Returns a double. 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_system_ad3eca5e5e7d88ba958ae6d74c0e7464a}\label{class_system_ad3eca5e5e7d88ba958ae6d74c0e7464a}} 
+\index{System@{System}!operator=@{operator=}}
+\index{operator=@{operator=}!System@{System}}
+\doxyparagraph{\texorpdfstring{operator=()}{operator=()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{class_system}{System}} $\ast$ System\+::operator= (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{class_system}{System}} $\ast$}]{system }\end{DoxyParamCaption})}
+
+
+
+Function to overload operator =. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em flow} & \mbox{\hyperlink{class_system}{System}} pointer. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Returns a system. 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_system_af9266231e352f4b45bdf4412afb76882}\label{class_system_af9266231e352f4b45bdf4412afb76882}} 
+\index{System@{System}!setName@{setName}}
+\index{setName@{setName}!System@{System}}
+\doxyparagraph{\texorpdfstring{setName()}{setName()}}
+{\footnotesize\ttfamily void System\+::set\+Name (\begin{DoxyParamCaption}\item[{string}]{name }\end{DoxyParamCaption})}
+
+
+
+Add a name for the system. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em name} & \mbox{\hyperlink{class_system}{System}} name. \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{class_system_a0fab907790a0a6ac4b4a9b934f3de278}\label{class_system_a0fab907790a0a6ac4b4a9b934f3de278}} 
+\index{System@{System}!setValue@{setValue}}
+\index{setValue@{setValue}!System@{System}}
+\doxyparagraph{\texorpdfstring{setValue()}{setValue()}}
+{\footnotesize\ttfamily void System\+::set\+Value (\begin{DoxyParamCaption}\item[{double}]{value }\end{DoxyParamCaption})}
+
+
+
+Add a value to the system. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em value} & \mbox{\hyperlink{class_system}{System}} value. \\
+\hline
+\end{DoxyParams}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+src/system.\+h\item 
+src/system.\+cpp\end{DoxyCompactItemize}
