@@ -1,6 +1,6 @@
 # Data structure jobs
 
-There were three works during the period using data structure concepts such as: struct, sorting methods, binary and search trees and hash table.
+There were three works during the period using data structure concepts such as: struct, sorting methods, linear lists, sequential and chained memory allocation, stacks, queues, recursion, trees, vectors, pointers, matrix and array.
 
 The following languages were used:
 
