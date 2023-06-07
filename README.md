@@ -1,3 +1,4 @@
-# University Works
+# Trabalhos Universitários
 
-Some work I did during the course. Use this as inspiration, don't copy anything just to make your job easier.
+Neste repositório, você encontrará alguns dos trabalhos que desenvolvi durante o meu curso universitário. Esses projetos foram realizados com o intuito de aprimorar meus conhecimentos e explorar diferentes conceitos e tecnologias. Sinta-se à vontade para explorar cada um deles e utilizar como inspiração para seus próprios projetos.
+
