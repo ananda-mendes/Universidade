@@ -1,8 +1,13 @@
-# Website for software engineering II
+# Website para Engenharia de Software II
 
-Website with database focused on information about the olympics, using software engineering concepts II as agile methodologies (Scrum).
+Este repositório contém o projeto de um website desenvolvido para a disciplina de Engenharia de Software II. O objetivo do projeto é criar um website com um banco de dados, focado em fornecer informações sobre os Jogos Olímpicos. Durante o desenvolvimento, foram aplicados conceitos e práticas de Engenharia de Software II, incluindo metodologias ágeis como o Scrum.
 
-The following languages were used: 
+O website foi desenvolvido utilizando tecnologias como React, CSS3, Node.js e PostgreSQL. O React foi escolhido como o framework de desenvolvimento front-end, permitindo a criação de uma interface de usuário interativa e responsiva. O CSS3 foi utilizado para estilizar e personalizar a aparência do website, proporcionando uma experiência visual agradável aos usuários.
 
- <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-	![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+O Node.js foi utilizado no lado do servidor para fornecer a lógica de negócio e a comunicação com o banco de dados. Ele permite a construção de aplicações web escaláveis e eficientes, além de facilitar a integração com outros serviços e APIs.
+
+O banco de dados PostgreSQL foi escolhido para armazenar e gerenciar as informações sobre os Jogos Olímpicos. Ele oferece recursos avançados de gerenciamento de dados e consultas eficientes, garantindo a integridade e a disponibilidade das informações.
+
+Durante o desenvolvimento do projeto, foram utilizadas práticas ágeis, como a organização do trabalho em sprints e o uso da ferramenta Trello para o gerenciamento de tarefas. Essas práticas permitem uma maior flexibilidade e adaptabilidade ao longo do desenvolvimento do projeto, garantindo a entrega de valor de forma incremental.
+
+Sinta-se à vontade para examinar o código, testar o website e avaliar a qualidade das implementações. Esperamos que esse projeto seja útil para aprimorar suas habilidades em Engenharia de Software e proporcionar uma experiência prática na construção de uma aplicação web completa.
