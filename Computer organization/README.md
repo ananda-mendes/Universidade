@@ -1,13 +1,21 @@
-# Simulating a machine and the use of ram and cash memories
+# Simulação de uma Máquina e Uso de Memória RAM e Cache
 
-Computer organization jobs were divided into 3
+Este repositório contém os trabalhos relacionados à organização de computadores, divididos em três partes:
 
-tp1 - a machine that does some functions like polygon area.
+## Trabalho Prático 1
 
-tp2 - do the same functions but using simulated cache memory to do multiple functions at the same time
+O Trabalho Prático 1 consiste na implementação de uma máquina que realiza algumas funções, como o cálculo da área de um polígono. 
 
-tp3 - same functions using input binary files and using interrupt handling
+## Trabalho Prático 2
 
- The following languages were used:
- 
+No Trabalho Prático 2, foram realizadas as mesmas funções do TP1, porém, dessa vez, utilizando uma simulação de memória cache. O objetivo era realizar múltiplas funções ao mesmo tempo, aproveitando os benefícios da memória cache. 
+
+## Trabalho Prático 3
+
+O Trabalho Prático 3 também envolve as mesmas funções dos trabalhos anteriores, porém, dessa vez, foi utilizado o processamento de arquivos binários de entrada e o tratamento de interrupções. 
+
+As seguintes linguagens foram utilizadas nos trabalhos:
+
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+
+Cada trabalho possui sua própria pasta neste repositório, onde você pode encontrar os códigos e arquivos relacionados. Sinta-se à vontade para explorar cada trabalho e obter mais detalhes sobre as implementações.
